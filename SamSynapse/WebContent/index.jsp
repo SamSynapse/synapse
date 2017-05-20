@@ -16,15 +16,6 @@
 </head>
 <body>
 	<h3>Meine WebApp-Startseite</h3>
-	<p>
-		<a href="/MyFirstProject/HelloServlet">/MeineWebAppRoot/HalloServlet</a>
-	</p>
-	<p>
-		<a href="/MyFirstProject/HalloJSP.jsp">/MeineWebAppRoot/HalloJSP.jsp</a>
-	</p>
-	<p>
-		<a href="/MyFirstProject/HalloJSPmitJavaBean.jsp">/MeineWebAppRoot/HalloJSPmitJavaBean.jsp</a>
-	</p>
 
 	<%
 out.println("hallo welt !!!!°°°");
