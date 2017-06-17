@@ -11,10 +11,8 @@
 
 <body>
 
-	<jsp:include page="session_handler.jsp" />
 	
-	<br><br>
-	<a href="logout.jsp">Logout</a>
+
 </body>
 
 </html>
