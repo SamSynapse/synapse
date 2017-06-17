@@ -9,7 +9,7 @@ public class MYSQLAccess {
     	/*
     	 * Serverdaten
     	 */
-    	String port 	= "80";
+    	String port 	= "3306";
     	String website 	= "localhost";
     	
         String url = "jdbc:mysql://"+website+":"+port+"/";
